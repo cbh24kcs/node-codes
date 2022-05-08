@@ -1,0 +1,18 @@
+{
+  "name": "demo-01",
+  "version": "1.0.0",
+  "description": "这是一个例子项目",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "666"
+  ],
+  "author": "大佬",
+  "license": "ISC",
+  
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
